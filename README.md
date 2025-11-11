@@ -1,5 +1,5 @@
 # EDID Binary for DELL ST2420L
-NOTE: This EDID **IS NOT** signed by Dell and **IS NOT** the driver that ships with the monitor but a rewrite of the driver with the same [specifications](https://dl.dell.com/manuals/all-products/esuprt_display_projector/esuprt_display/dell-st2420l_user's%20guide_en-us.pdf) as provided by Dell. Use at your own risk.
+NOTE: This EDID **IS NOT** signed by Dell and **IS NOT** the driver that ships with the monitor but a rewrite of the driver with the same [specifications](https://dl.dell.com/manuals/all-products/esuprt_display_projector/esuprt_display/dell-st2420l_user's%20guide_en-us.pdf) as provided by Dell and [VESA](https://glenwing.github.io/docs/VESA-EEDID-A1.pdf). Use at your own risk.
 
 
 ## Resoruces Used
